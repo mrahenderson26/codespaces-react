@@ -1,0 +1,1 @@
+Quiero crear un component React similar a un select que cogiera las options de un array pasado como props, podríams probar con géneros cinematográficos y que se seleccionara al hacer click y que filtrara las opciones a la vez que escribes. Al hacer enter buscaría mostrando el género indicado en un display
